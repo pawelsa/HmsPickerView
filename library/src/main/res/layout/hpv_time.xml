@@ -32,7 +32,7 @@
         android:fontFeatureSettings="tnum"
         android:includeFontPadding="false"
         android:singleLine="true"
-        android:textColor="?android:attr/textColorPrimary"
+        android:textColor="@color/hpv_textColor"
         android:textSize="@dimen/hpv_digit_time_size"
         tools:targetApi="21"
         tools:text="12h34m56s" />

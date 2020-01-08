@@ -14,7 +14,7 @@
         <item name="android:minWidth">96dp</item>
         <item name="android:paddingTop">@dimen/hpv_digit_padding</item>
         <item name="android:paddingBottom">@dimen/hpv_digit_padding</item>
-        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textColor">@color/hpv_textColor</item>
         <item name="android:textSize">@dimen/hpv_digit_font_size</item>
     </style>
 
